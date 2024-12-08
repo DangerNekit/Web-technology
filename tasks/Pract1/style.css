@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto', sans-serif; /* Сучасніший шрифт */
+    font-family: 'Roboto', sans-serif; 
     background-color: #f8f9fa; /* Світліший фон */
     color: #343a40; /* Темніший текст для кращої читабельності */
     display: flex;
